@@ -1,10 +1,7 @@
 # 🚀 DevSecOps Engineer | 🐍 Python Enjoyer
 
-Exploring the intersection of DevOps, security, and Python automation.
-
-Containerizing ideas and securing pipelines with a touch of Python.
-
-Automating, securing, and scaling systems — one script at a time.
+Passionate about DevOps and Python, automating everything from deployments to monitoring.
+Currently exploring cybersecurity to make systems safer and more resilient.
 
 ### 📊 GitHub Stats
 
@@ -19,5 +16,8 @@ Automating, securing, and scaling systems — one script at a time.
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A66C2?style=flat&logo=githubactions&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2F8D46?style=flat&logo=security&logoColor=white)
